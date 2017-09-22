@@ -15,3 +15,7 @@ Scaling Ruby Apps to 1000 Requests per Minute - A Beginner's Guide - Nate Berkop
 ## Code Design
 
 Breaking Up the Behemoth (3 metrics to measure complexity/maintainability) - Sandi Metz: https://www.sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth
+
+## Machine Learning
+
+ML Basics: K Nearest Neighbors - Aja Hammerly: http://www.thagomizer.com/blog/2017/09/13/ml-basics-k-nearest-neighbors.html
