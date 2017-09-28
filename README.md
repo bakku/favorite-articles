@@ -8,6 +8,8 @@ Exploitation of insecure session management - Jack Singleton: https://martinfowl
 
 How I hacked hundreds of companies through their helpdesk - Inti De Ceukelaire: https://medium.freecodecamp.org/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c
 
+Sichere NGINX TLS Konfiguration (in German) - Stephan Herbers: https://www.sherbers.de/howto/nginx/
+
 ## Operations
 
 The Evolution of Code Deploys at Reddit - Neil Williams & Saurabh Sharma: https://redditblog.com/2017/06/02/the-evolution-of-code-deploys-at-reddit/
