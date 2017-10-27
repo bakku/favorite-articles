@@ -25,3 +25,9 @@ Breaking Up the Behemoth (3 metrics to measure complexity/maintainability) - San
 ## Machine Learning
 
 ML Basics: K Nearest Neighbors - Aja Hammerly: http://www.thagomizer.com/blog/2017/09/13/ml-basics-k-nearest-neighbors.html
+
+## Programming languages
+
+### Go
+
+The Behavior Of Channels - William Kennedy: https://www.goinggo.net/2017/10/the-behavior-of-channels.html
