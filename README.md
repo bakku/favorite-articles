@@ -10,6 +10,8 @@ How I hacked hundreds of companies through their helpdesk - Inti De Ceukelaire: 
 
 Sichere NGINX TLS Konfiguration (in German) - Stephan Herbers: https://www.sherbers.de/howto/nginx/
 
+12 best practices for user account, authorization and password management - Ian Maddox: https://cloudplatform.googleblog.com/2018/01/12-best-practices-for-user-account.html
+
 ## Operations
 
 The Evolution of Code Deploys at Reddit - Neil Williams & Saurabh Sharma: https://redditblog.com/2017/06/02/the-evolution-of-code-deploys-at-reddit/
