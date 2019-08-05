@@ -33,3 +33,7 @@ ML Basics: K Nearest Neighbors - Aja Hammerly: http://www.thagomizer.com/blog/20
 The Behavior Of Channels - William Kennedy: https://www.goinggo.net/2017/10/the-behavior-of-channels.html
 
 Write a Kubernetes-ready service from zero step-by-step - Elena Grahovac: https://blog.gopheracademy.com/advent-2017/kubernetes-ready-service/
+
+### Ruby
+
+Ruby on Whales: Dockerizing Ruby and Rails development - Vladimir Dementyev: https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development
