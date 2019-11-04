@@ -40,6 +40,8 @@ Write a Kubernetes-ready service from zero step-by-step - Elena Grahovac: https:
 
 Standard Package Layout - Ben Johnson: https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1
 
+Go - graceful shutdown of worker goroutines - Erik Lupander: https://callistaenterprise.se/blogg/teknik/2019/10/05/go-worker-cancellation/
+
 ### Ruby
 
 Ruby on Whales: Dockerizing Ruby and Rails development - Vladimir Dementyev: https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development
